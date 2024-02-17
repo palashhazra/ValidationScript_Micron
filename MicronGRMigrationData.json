@@ -1,0 +1,2996 @@
+[
+    {
+        "grNumber": "5008635954",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-10-23T00:29:30.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "AMYARROW861GR1",
+                "desc": "ASN no."
+            },
+            {
+                "idQualf": "ZP",
+                "id": "TPE",
+                "desc": "Plant code"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "T1"
+            }
+        ],
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "cid": "QmeP48hC2RDKgxMY2UUB5hB8WVpQh1vQjXsnxraRZAeiHt",
+        "createDateTime": "2023-10-23T01:15:03.000Z",
+        "lastUpdateDateTime": "2023-10-23T01:15:03.000Z",
+        "id": "5008635954",
+        "_rid": "05ltAJyTn1xZAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1xZAQAAAAAAAA==/",
+        "_etag": "\"f50399e1-0000-0100-0000-6535c91c0000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "3400101633",
+                        "desc": "T1 PO"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "00010",
+                        "desc": "T1 PO Line"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "HMCG84AGBRA"
+                    },
+                    {
+                        "productQualf": "BP",
+                        "value": "M1203047-001"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 30,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "QmUSmDKAB4vhZQFkiqiuKY3UKh6KL3gqavYMpFLjiHSBkA"
+            }
+        ],
+        "_ts": 1698023708
+    },
+    {
+        "grNumber": "5008635955",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-10-23T00:29:36.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "AMYARROW861GR2",
+                "desc": "ASN no."
+            },
+            {
+                "idQualf": "ZP",
+                "id": "TPE",
+                "desc": "Plant code"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "T1"
+            }
+        ],
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "cid": "QmWWswQWLywW31c94susQiJE2QvJdtVkAQphvUsEYNpbis",
+        "createDateTime": "2023-10-23T01:19:38.000Z",
+        "lastUpdateDateTime": "2023-10-23T01:19:38.000Z",
+        "id": "5008635955",
+        "_rid": "05ltAJyTn1xaAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1xaAQAAAAAAAA==/",
+        "_etag": "\"f603a76b-0000-0100-0000-6535ca2f0000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "3400101634",
+                        "desc": "T1 PO"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "00010",
+                        "desc": "T1 PO Line"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "MCX565A-CDAI_C11"
+                    },
+                    {
+                        "productQualf": "BP",
+                        "value": "M1168449-001"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 30,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "Qmf13vD2Lgu34VQUMzScjkjZjefLtHtUT75LHcUEkJScXX"
+            }
+        ],
+        "_ts": 1698023983
+    },
+    {
+        "grNumber": "50086359552",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-10-25T01:10:00.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22576115"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "TPE"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "cid": "QmSDktjc8BaGaBG2Yu1EpRQiLTqethXF1yhEGxSdZTAz44",
+        "createDateTime": "2023-10-25T01:13:58.000Z",
+        "lastUpdateDateTime": "2023-10-25T01:13:58.000Z",
+        "id": "50086359552",
+        "_rid": "05ltAJyTn1xcAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1xcAQAAAAAAAA==/",
+        "_etag": "\"75055866-0000-0100-0000-65386bdf0000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "3400101634"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "00010"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "MCX565A-CDAI_C11"
+                    },
+                    {
+                        "productQualf": "BP",
+                        "value": "M1168449-001"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 30,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "QmWVvb6fMNMypMzZ5E1sGJnfNY1RcrKZb2xYaC7rbETLP4"
+            }
+        ],
+        "_ts": 1698196447
+    },
+    {
+        "grNumber": "5008635957",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-10-25T02:08:36.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22575695"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "TPE"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "cid": "QmWLP4kWxRuei5PiWkBLi5GLZ25iLEqnX7Su4ggbgq3ZNu",
+        "createDateTime": "2023-10-25T02:56:38.000Z",
+        "lastUpdateDateTime": "2023-10-25T02:56:38.000Z",
+        "id": "5008635957",
+        "_rid": "05ltAJyTn1xdAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1xdAQAAAAAAAA==/",
+        "_etag": "\"8105485f-0000-0100-0000-653883ec0000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "3400101633"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "00010"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "HMCG84AGBRA"
+                    },
+                    {
+                        "productQualf": "BP",
+                        "value": "M1203047-001"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 30,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "QmVn1TTHfNuuUKcXcrLqtejdNp2BNmm14E8bcPRXdAj4hi"
+            }
+        ],
+        "_ts": 1698202604
+    },
+    {
+        "grNumber": "5010064989",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-10-24T22:08:00.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22575746"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "FMX"
+            }
+        ],
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "cid": "QmWwoQ1kiiUT7kR4A7sCpiJBt3KCkMMpnHjwseWF1trz9z",
+        "createDateTime": "2023-10-25T16:41:23.000Z",
+        "lastUpdateDateTime": "2023-10-25T16:41:23.000Z",
+        "id": "5010064989",
+        "_rid": "05ltAJyTn1xeAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1xeAQAAAAAAAA==/",
+        "_etag": "\"ed05d5ad-0000-0100-0000-6539453a0000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "10",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "4500363312"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "10"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "MCX565A-CDAI_C11"
+                    },
+                    {
+                        "productQualf": "BP",
+                        "value": "M1168449-001"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 5,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "QmPA1A8zQe8kUsjtXKQzANMDMjXfaUmTtRQZQjx2mf8tfs"
+            }
+        ],
+        "_ts": 1698252090
+    },
+    {
+        "grNumber": "5010770141",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-10-26T12:57:26.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22581406",
+                "desc": "Shipment number"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "0000",
+                "desc": "Plant code"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI",
+                "desc": "Filter"
+            }
+        ],
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "cid": "QmYGZRJJCBof6THWd5MNVDmN9FGMSCHGV2f226GY3WCkEg",
+        "createDateTime": "2023-10-26T18:26:23.000Z",
+        "lastUpdateDateTime": "2023-10-26T18:26:23.000Z",
+        "id": "5010770141",
+        "_rid": "05ltAJyTn1xlAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1xlAQAAAAAAAA==/",
+        "_etag": "\"2b00e5ed-0000-0100-0000-653aaf570000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "15152",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "4510015084"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "0010"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "MZ1LB1T9HALS-00AMV"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 10,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "QmemgEqUht4NE7K1aQj4iVfhMqgjxa8nCBw3jE7QMPJkxj"
+            }
+        ],
+        "_ts": 1698344791
+    },
+    {
+        "grNumber": "5008635972",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-11-02T03:30:12.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22648453"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "TPE"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmeVmcEpJ2gKf3iDMBETLRRt92FJx7rg4RBwK2oUBY7gUY",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-11-02T03:40:08.000Z",
+        "lastUpdateDateTime": "2023-11-02T03:40:08.000Z",
+        "id": "5008635972",
+        "_rid": "05ltAJyTn1xpAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1xpAQAAAAAAAA==/",
+        "_etag": "\"01006237-0000-0100-0000-65431a210000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "3400101637"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "00020"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "MCX565A-CDAI_C11"
+                    },
+                    {
+                        "productQualf": "BP",
+                        "value": "M1168449-001"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 15,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "QmWpLntqpK6C6a5zBQEYhyhdJHruMSxBpKCsTZtgUXQXDt"
+            }
+        ],
+        "_ts": 1698896417
+    },
+    {
+        "grNumber": "5008635976",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-11-03T02:42:54.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22638411"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "TPE"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmcGWJHRdFpq432b3EZx7HrRvLX9u1ZnSDZdCSPnQnNfyX",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-11-03T02:58:28.000Z",
+        "lastUpdateDateTime": "2023-11-03T02:58:28.000Z",
+        "id": "5008635976",
+        "_rid": "05ltAJyTn1xqAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1xqAQAAAAAAAA==/",
+        "_etag": "\"01000f5d-0000-0100-0000-654461d90000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "3400101644"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "00020"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "MCX565A-CDAI_C11"
+                    },
+                    {
+                        "productQualf": "BP",
+                        "value": "M1168449-001"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 20,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "QmYjUUAkwxcemBM9TcK6e4wq2Gi4sQKnPUvYVVNoQqFSgJ"
+            }
+        ],
+        "_ts": 1698980313
+    },
+    {
+        "grNumber": "5008635977",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-11-03T02:43:22.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22638411"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "TPE"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmNnqbFzJ52nWDAJh4ytggvNd4dmStWv9CHfRuPNk4X5Yz",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-11-03T02:58:38.000Z",
+        "lastUpdateDateTime": "2023-11-03T02:58:38.000Z",
+        "id": "5008635977",
+        "_rid": "05ltAJyTn1xrAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1xrAQAAAAAAAA==/",
+        "_etag": "\"0100155d-0000-0100-0000-654461e20000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "3400101644"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "00030"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "MCX565A-CDAI_C11"
+                    },
+                    {
+                        "productQualf": "BP",
+                        "value": "M1168449-001"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 10,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "QmXZ3PsNcDrfi3SzboW25gpdgTWcCDmQ6x8QguVTwP9AwF"
+            }
+        ],
+        "_ts": 1698980322
+    },
+    {
+        "grNumber": "5008635975",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-11-03T02:41:36.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22638411"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "TPE"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmS3RET8mhhbVrZxcUdTa7c3uVbEPQYui73U9EfNrPop58",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-11-03T02:58:48.000Z",
+        "lastUpdateDateTime": "2023-11-03T02:58:48.000Z",
+        "id": "5008635975",
+        "_rid": "05ltAJyTn1xsAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1xsAQAAAAAAAA==/",
+        "_etag": "\"0100195d-0000-0100-0000-654461ee0000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "3400101644"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "00010"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "HMCG84AGBRA"
+                    },
+                    {
+                        "productQualf": "BP",
+                        "value": "M1203047-001"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 15,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "QmRnNM7VrbDTpZpKxPutvh61Mk5dTbXpzrVqDHn7sMsG4h"
+            }
+        ],
+        "_ts": 1698980334
+    },
+    {
+        "grNumber": "5008635978",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-11-08T05:39:19.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22738973"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "TPE"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmUfcKR89rpFxKxisFFKhwGnGx2fzDa5vBX5Hidjazq8B5",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-11-08T06:18:23.000Z",
+        "lastUpdateDateTime": "2023-11-08T06:18:23.000Z",
+        "id": "5008635978",
+        "_rid": "05ltAJyTn1xtAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1xtAQAAAAAAAA==/",
+        "_etag": "\"02009444-0000-0100-0000-65531e260000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "3400101652"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "00020"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "MCX565A-CDAI_C11"
+                    },
+                    {
+                        "productQualf": "BP",
+                        "value": "M1168449-001"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 15,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "Qmdche9tHGstdhU7ARgQmR54cqetWEFV9oR54krbCvFAFY"
+            }
+        ],
+        "_ts": 1699946022
+    },
+    {
+        "grNumber": "5008635979",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-11-08T05:40:43.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22739008"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "TPE"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmWehpFnR4CyuF8i1GhMiqT2GHDccgUcPYURLwngS1EucW",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-11-08T06:18:33.000Z",
+        "lastUpdateDateTime": "2023-11-08T06:18:33.000Z",
+        "id": "5008635979",
+        "_rid": "05ltAJyTn1xuAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1xuAQAAAAAAAA==/",
+        "_etag": "\"02009844-0000-0100-0000-65531e270000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "3400101652"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "00010"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "MCX565A-CDAI_C11"
+                    },
+                    {
+                        "productQualf": "BP",
+                        "value": "M1168449-001"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 5,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "QmUv2pmgdrhUmQZ7eCxVJSjVDkTgHvY5H3NovfbPV7CwdG"
+            }
+        ],
+        "_ts": 1699946023
+    },
+    {
+        "grNumber": "50000000000",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-11-03T02:43:22.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22638411"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "TPE"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmRM5nLSN84mWvMxRKbiZdnPydfRJB94XJ5MyxDSLZFFnT",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-11-13T03:51:38.000Z",
+        "lastUpdateDateTime": "2023-11-13T03:51:38.000Z",
+        "id": "50000000000",
+        "_rid": "05ltAJyTn1xvAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1xvAQAAAAAAAA==/",
+        "_etag": "\"0200f799-0000-0100-0000-65534ad80000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "testtest"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "00030"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "MCX565A-CDAI_C11"
+                    },
+                    {
+                        "productQualf": "BP",
+                        "value": "M1168449-001"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 10,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "QmUFohVPig4NhD1ZAox7yMqPczazfhzWqAKN8Ra5vRrRqS"
+            }
+        ],
+        "_ts": 1699957464
+    },
+    {
+        "grNumber": "5008635980",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-11-14T01:28:23.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22747872"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "TPE"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmV9ZBkXgm1VZaT8VNRWqrWszywKo1mVw9GesNrqbP54Kk",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-11-14T01:50:03.000Z",
+        "lastUpdateDateTime": "2023-11-14T01:50:03.000Z",
+        "id": "5008635980",
+        "_rid": "05ltAJyTn1xwAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1xwAQAAAAAAAA==/",
+        "_etag": "\"0200ce9a-0000-0100-0000-655352310000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "3400101652"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "00010"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "MCX565A-CDAI_C11"
+                    },
+                    {
+                        "productQualf": "BP",
+                        "value": "M1168449-001"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 5,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "QmUv2pmgdrhUmQZ7eCxVJSjVDkTgHvY5H3NovfbPV7CwdG"
+            }
+        ],
+        "_ts": 1699959345
+    },
+    {
+        "grNumber": "5008635981",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-11-16T04:47:32.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22760618"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "TPE"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmW1nCKxsAhWhCpGYr5BVQ5bvdkQRLxkgAkzBkDXYZh4Br",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-11-16T05:34:24.000Z",
+        "lastUpdateDateTime": "2023-11-16T05:34:24.000Z",
+        "id": "5008635981",
+        "_rid": "05ltAJyTn1xxAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1xxAQAAAAAAAA==/",
+        "_etag": "\"0200b4de-0000-0100-0000-6555a9e50000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "3400101645"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "00010"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "HMCG84AGBRA"
+                    },
+                    {
+                        "productQualf": "BP",
+                        "value": "M1203047-001"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 10,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "Qma5pUdCV4inb1unM5yWnn6kMWtLFjEA9smj7JUPSqV73h"
+            }
+        ],
+        "_ts": 1700112869
+    },
+    {
+        "grNumber": "5008635982",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-11-16T04:48:00.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22760618"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "TPE"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmS9U8N9CCR88Swkf9vvVFRkEJw1kvxmtWKfvNbESop5fY",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-11-16T05:34:34.000Z",
+        "lastUpdateDateTime": "2023-11-16T05:34:34.000Z",
+        "id": "5008635982",
+        "_rid": "05ltAJyTn1xyAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1xyAQAAAAAAAA==/",
+        "_etag": "\"0200bade-0000-0100-0000-6555a9ee0000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "3400101645"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "00020"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "MCX565A-CDAI_C11"
+                    },
+                    {
+                        "productQualf": "BP",
+                        "value": "M1168449-001"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 20,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "QmXMaZHGkT9CWmUQnijnhzunrFryQG5MwJhXTdpteguHzv"
+            }
+        ],
+        "_ts": 1700112878
+    },
+    {
+        "grNumber": "5008635983",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-11-16T04:48:22.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22760618"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "TPE"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmZQx6wH35QiAfJ6ps9ULaD66FT2oJ3ejSt5yk3g1yy2JR",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-11-16T05:41:39.000Z",
+        "lastUpdateDateTime": "2023-11-16T05:41:39.000Z",
+        "id": "5008635983",
+        "_rid": "05ltAJyTn1xzAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1xzAQAAAAAAAA==/",
+        "_etag": "\"0200e0de-0000-0100-0000-6555ab990000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "3400101645"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "00030"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "HMCG84AGBRA"
+                    },
+                    {
+                        "productQualf": "BP",
+                        "value": "M1203047-001"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 20,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "Qmamna4RQpPTyFcv3bTKdq8NqSN3hogn5YSWv4ejT8eN6U"
+            }
+        ],
+        "_ts": 1700113305
+    },
+    {
+        "grNumber": "5008635985",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-11-20T03:24:27.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22765650"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "TPE"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmWHDH98D13kvDKw5U2J9PBFTzxyRaMM5aTRMYibiBeaJV",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-11-20T08:03:19.000Z",
+        "lastUpdateDateTime": "2023-11-20T08:03:19.000Z",
+        "id": "5008635985",
+        "_rid": "05ltAJyTn1x0AQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1x0AQAAAAAAAA==/",
+        "_etag": "\"03009e5a-0000-0100-0000-655b12cd0000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "3400101651"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "00010"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "HMCG84AGBRA"
+                    },
+                    {
+                        "productQualf": "BP",
+                        "value": "M1203047-001"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 15,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "QmUeLi3oZn4ADnzYP4XyQ5Z2Ls4CF5KanDSgSJgnDgko6C"
+            }
+        ],
+        "_ts": 1700467405
+    },
+    {
+        "grNumber": "5008635986",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-11-20T03:24:53.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22765650"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "TPE"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmWgiBTBmHS5KEMrxT8psx4DBVemmkAcTbHhW1wHhYfS1H",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-11-20T08:03:34.000Z",
+        "lastUpdateDateTime": "2023-11-20T08:03:34.000Z",
+        "id": "5008635986",
+        "_rid": "05ltAJyTn1x1AQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1x1AQAAAAAAAA==/",
+        "_etag": "\"0300a25a-0000-0100-0000-655b12db0000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "3400101651"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "00030"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "HMCG84AGBRA"
+                    },
+                    {
+                        "productQualf": "BP",
+                        "value": "M1203047-001"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 15,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "QmTRgu31SQuBv8m4a75DZ4VwqrzdkgxwnNxdkv1q1DRo6s"
+            }
+        ],
+        "_ts": 1700467419
+    },
+    {
+        "grNumber": "5008635987",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-11-20T03:26:25.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22765647"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "TPE"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmeFr9eMK1dBmMQcGkyArBhnMbzS8tKpnHQDTvNajfRv6G",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-11-20T08:03:44.000Z",
+        "lastUpdateDateTime": "2023-11-20T08:03:44.000Z",
+        "id": "5008635987",
+        "_rid": "05ltAJyTn1x2AQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1x2AQAAAAAAAA==/",
+        "_etag": "\"0300a85a-0000-0100-0000-655b12e50000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "3400101651"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "00020"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "MCX565A-CDAI_C11"
+                    },
+                    {
+                        "productQualf": "BP",
+                        "value": "M1168449-001"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 15,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "QmXKowksQ83JTSw7zdAxKKAvWkf5yzqUpV1V5hfXjCrKT9"
+            }
+        ],
+        "_ts": 1700467429
+    },
+    {
+        "grNumber": "5008635988",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-11-23T06:12:36.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22772651"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "TPE"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmVFY5wJGwTGqGohHQZotjkwKeqghJ5QR9bRFTxcctNJj3",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-11-23T06:26:54.000Z",
+        "lastUpdateDateTime": "2023-11-23T06:26:54.000Z",
+        "id": "5008635988",
+        "_rid": "05ltAJyTn1x3AQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1x3AQAAAAAAAA==/",
+        "_etag": "\"030085c3-0000-0100-0000-655ef0b30000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "3400101649"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "00010"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "HMCG84AGBRA"
+                    },
+                    {
+                        "productQualf": "BP",
+                        "value": "M1203047-001"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 15,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "Qma8s1nDdqLRJZ9U8GMo2kJJ7AhGnKVba5Jrrv28hrCHDQ"
+            }
+        ],
+        "_ts": 1700720819
+    },
+    {
+        "grNumber": "5008635989",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-11-23T06:14:07.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22772651"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "TPE"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmP1R59FAbekaQo1nukiT4Xu5RTwJ7Hnb9eRNPnWY7BjiF",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-11-23T06:27:09.000Z",
+        "lastUpdateDateTime": "2023-11-23T06:27:09.000Z",
+        "id": "5008635989",
+        "_rid": "05ltAJyTn1x4AQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1x4AQAAAAAAAA==/",
+        "_etag": "\"03008bc3-0000-0100-0000-655ef0c40000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "3400101649"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "00020"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "MCX565A-CDAI_C11"
+                    },
+                    {
+                        "productQualf": "BP",
+                        "value": "M1168449-001"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 15,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "QmYUPhsPiQVvb8J65MLdSg7gXfvrFkSKJUC3Y6KnQEkRbU"
+            }
+        ],
+        "_ts": 1700720836
+    },
+    {
+        "grNumber": "5008635990",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-12-01T04:49:24.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22765555"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "TPE"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmTSBZh6GpFAnR5uYQH49BuX5PbPSYB5uA7Kb5bP5D2YMt",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-12-01T06:09:11.000Z",
+        "lastUpdateDateTime": "2023-12-01T06:09:11.000Z",
+        "id": "5008635990",
+        "_rid": "05ltAJyTn1x+AQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1x+AQAAAAAAAA==/",
+        "_etag": "\"0400c1c3-0000-0100-0000-6569788c0000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "3400101647"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "00010"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "HMCG84AGBRA"
+                    },
+                    {
+                        "productQualf": "BP",
+                        "value": "M1203047-001"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 10,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "QmPMs9J59FuNWfYVa6jaH5uHxMyHigQqvfiSZpHx8V5yF4"
+            }
+        ],
+        "_ts": 1701410956
+    },
+    {
+        "grNumber": "5008635991",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-12-01T04:49:51.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22765555"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "TPE"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmZVHUkPQTB4BQ8LUYkQ9Htg87zV4g6v12THaFGYFQZChQ",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-12-01T06:09:26.000Z",
+        "lastUpdateDateTime": "2023-12-01T06:09:26.000Z",
+        "id": "5008635991",
+        "_rid": "05ltAJyTn1x-AQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1x-AQAAAAAAAA==/",
+        "_etag": "\"0400c5c3-0000-0100-0000-6569789b0000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "3400101647"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "00020"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "HMCG84AGBRA"
+                    },
+                    {
+                        "productQualf": "BP",
+                        "value": "M1203047-001"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 15,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "QmRWtGz1xgBuJhCjHo169714xL44B3R7PBYLyAZm8VBf7P"
+            }
+        ],
+        "_ts": 1701410971
+    },
+    {
+        "grNumber": "5008635992",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-12-01T04:50:22.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22765555"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "TPE"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmUgy75XthVXDWoSCApFL5sTKuRakPud4i28LqfqjxrhkE",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-12-01T06:09:36.000Z",
+        "lastUpdateDateTime": "2023-12-01T06:09:36.000Z",
+        "id": "5008635992",
+        "_rid": "05ltAJyTn1yAAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1yAAQAAAAAAAA==/",
+        "_etag": "\"0400cbc3-0000-0100-0000-656978a50000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "3400101647"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "00030"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "MCX565A-CDAI_C11"
+                    },
+                    {
+                        "productQualf": "BP",
+                        "value": "M1168449-001"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 20,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "Qmc1X9Bf318iXdsyeTv3syN4YGdr6iLkCZbbXTzPuq8RDm"
+            }
+        ],
+        "_ts": 1701410981
+    },
+    {
+        "grNumber": "5010065041",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-11-28T07:30:00.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22772237"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "FMX"
+            }
+        ],
+        "cid": "QmPgpFWB16LsvJjTxYGM7ChSeH1hUAuSSU6pu8DUPzqG65",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-12-07T16:47:41.000Z",
+        "lastUpdateDateTime": "2023-12-07T16:47:41.000Z",
+        "id": "5010065041",
+        "_rid": "05ltAJyTn1yGAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1yGAQAAAAAAAA==/",
+        "_etag": "\"0500d788-0000-0100-0000-6571f7320000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00020",
+                "ref": [
+                    {
+                        "idQualf": "BV",
+                        "id": "00020"
+                    },
+                    {
+                        "idQualf": "OP",
+                        "id": "4500351140"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "BP",
+                        "value": "M1077134-002"
+                    },
+                    {
+                        "productQualf": "VP",
+                        "value": "MZ1LB1T9HALS-00AMV"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 200,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "QmQD1aGJibJXD8b6eN52TQAtbtT1RsHvLgikKYnYxqg9Wx"
+            }
+        ],
+        "_ts": 1701967666
+    },
+    {
+        "grNumber": "5010770201",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-12-08T10:04:50.187Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22786423"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "0000"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmRhkfP7kTbjKumhG7BUiBrD2rr5NhDTAWJv7x3ywBF1yp",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-12-08T11:13:01.000Z",
+        "lastUpdateDateTime": "2023-12-08T11:13:01.000Z",
+        "id": "5010770201",
+        "_rid": "05ltAJyTn1yHAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1yHAQAAAAAAAA==/",
+        "_etag": "\"0500919f-0000-0100-0000-6572fa440000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "15289",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "4510015088"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "0020"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "MZ1LB1T9HALS-00AMV"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 15,
+                        "uom": "EA"
+                    }
+                ],
+                "txt": [
+                    {
+                        "txtQualf": "PB",
+                        "text": "Komarom",
+                        "lang": "en"
+                    },
+                    {
+                        "txtQualf": "OTH",
+                        "lang": "en"
+                    }
+                ],
+                "cid": "QmSQ9PYw1H8PF6ZWN4rJQKsEmGSLUaXRKgVfuwxKSjR5vU"
+            },
+            {
+                "grType": "07",
+                "line": "15288",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "4510015088"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "0010"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "MZ1LB1T9HALS-00AMV"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 15,
+                        "uom": "EA"
+                    }
+                ],
+                "txt": [
+                    {
+                        "txtQualf": "PB",
+                        "text": "Komarom",
+                        "lang": "en"
+                    },
+                    {
+                        "txtQualf": "OTH",
+                        "lang": "en"
+                    }
+                ],
+                "cid": "QmX72SD83naPvTLNmMRXZDsCuNwz9zRvxpNvbtsj7G2q4h"
+            }
+        ],
+        "_ts": 1702033988
+    },
+    {
+        "grNumber": "5010770202",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-12-08T10:18:13.770Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22786424"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "0000"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmNUnpxRjPhijqk2uNnX6FH1SRVgNRxSVvnWaF1d9SKoKD",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-12-08T11:13:16.000Z",
+        "lastUpdateDateTime": "2023-12-08T11:13:16.000Z",
+        "id": "5010770202",
+        "_rid": "05ltAJyTn1yIAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1yIAQAAAAAAAA==/",
+        "_etag": "\"0500959f-0000-0100-0000-6572fa520000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "15290",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "4510015088"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "0030"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "MZ1LB1T9HALS-00AMV"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 15,
+                        "uom": "EA"
+                    }
+                ],
+                "txt": [
+                    {
+                        "txtQualf": "PB",
+                        "text": "Komarom",
+                        "lang": "en"
+                    },
+                    {
+                        "txtQualf": "OTH",
+                        "lang": "en"
+                    }
+                ],
+                "cid": "QmZnNytsdqAmExKXya3ygbDqM4rEiqMWqiC3j5hNCejsce"
+            }
+        ],
+        "_ts": 1702034002
+    },
+    {
+        "grNumber": "5008635993",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-12-11T07:33:50.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22802661"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "TPE"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmSHC6zjT1Nz144c5TgtwcwwJCtFiz2o1xNCoAuo9WbK4n",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-12-11T07:41:21.000Z",
+        "lastUpdateDateTime": "2023-12-11T07:41:21.000Z",
+        "id": "5008635993",
+        "_rid": "05ltAJyTn1yKAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1yKAQAAAAAAAA==/",
+        "_etag": "\"060048a6-0000-0100-0000-6576bd280000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "3400101650"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "00010"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "HMCG84AGBRA"
+                    },
+                    {
+                        "productQualf": "BP",
+                        "value": "M1203047-001"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 8,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "Qmbe8RDaZwhgEgRLB5ncPUGvAKW8TYMJEzV8JpWdc5DvNh"
+            }
+        ],
+        "_ts": 1702280488
+    },
+    {
+        "grNumber": "5010065051",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-11-28T01:01:00.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22772233"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "FMX"
+            }
+        ],
+        "cid": "QmWSzjs5DDKsmqkg6TEEiKcqaa6hVH8BqwmaGe7ctMGQ4L",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-12-12T00:03:41.000Z",
+        "lastUpdateDateTime": "2023-12-12T00:03:41.000Z",
+        "id": "5010065051",
+        "_rid": "05ltAJyTn1yLAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1yLAQAAAAAAAA==/",
+        "_etag": "\"1900dfbd-0000-0100-0000-6577a3620000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00020",
+                "ref": [
+                    {
+                        "idQualf": "BV",
+                        "id": "00020"
+                    },
+                    {
+                        "idQualf": "OP",
+                        "id": "4500351134"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "BP",
+                        "value": "M1077134-002"
+                    },
+                    {
+                        "productQualf": "VP",
+                        "value": "MZ1LB1T9HALS-00AMV"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 200,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "QmexeGE5MofQLiVZd7q7xRkbFGn4exLhBNWmwg3XHLBnhC"
+            }
+        ],
+        "_ts": 1702339426
+    },
+    {
+        "grNumber": "5010065052",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-11-28T01:01:50.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22772233"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "FMX"
+            }
+        ],
+        "cid": "QmeMJe4ArWtSHtACvmcTqCVPmtiRcbfVrapfU3PrGUcZgK",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-12-12T00:04:56.000Z",
+        "lastUpdateDateTime": "2023-12-12T00:04:56.000Z",
+        "id": "5010065052",
+        "_rid": "05ltAJyTn1yMAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1yMAQAAAAAAAA==/",
+        "_etag": "\"190009c3-0000-0100-0000-6577a3ae0000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "BV",
+                        "id": "00010"
+                    },
+                    {
+                        "idQualf": "OP",
+                        "id": "4500351134"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "BP",
+                        "value": "MCX565A-CDAI_C11"
+                    },
+                    {
+                        "productQualf": "VP",
+                        "value": "MCX565A-CDAI_C11"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 22,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "QmYuDTtbSaandtWzu5Uzd3YYGfh4B3XVSwATyDNUKzcuVG"
+            }
+        ],
+        "_ts": 1702339502
+    },
+    {
+        "grNumber": "0000000001",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2020-11-13T00:00:00.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "ASN12345678",
+                "desc": "ASN no."
+            },
+            {
+                "idQualf": "ZP",
+                "id": "4424",
+                "desc": "Plant code"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "T2"
+            }
+        ],
+        "handlingUnits": [
+            {
+                "huIdQualf": "AA",
+                "huType": "CARTON",
+                "huId": "carton-123",
+                "quantity": 10,
+                "ref": [
+                    {
+                        "idQualf": "M1",
+                        "id": "01",
+                        "desc": "Storage location"
+                    }
+                ]
+            }
+        ],
+        "cid": "QmZ68p2nKe8mjtyucJDHdVYLbVkZVbz4cSHsicjnxppUuR",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-12-12T00:53:51.000Z",
+        "lastUpdateDateTime": "2023-12-12T00:53:51.000Z",
+        "id": "0000000001",
+        "_rid": "05ltAJyTn1yNAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1yNAQAAAAAAAA==/",
+        "_etag": "\"1b00ee83-0000-0100-0000-6577af250000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "0001",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "OP123",
+                        "desc": "T2PO"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "0010",
+                        "desc": "T2POLine"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "VP123",
+                        "productDescription": "product description"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 10,
+                        "uom": "EA"
+                    }
+                ],
+                "txt": [
+                    {
+                        "txtQualf": "PB",
+                        "text": "Unloading point",
+                        "lang": "en"
+                    },
+                    {
+                        "txtQualf": "OTH",
+                        "text": "GR text",
+                        "lang": "en"
+                    }
+                ],
+                "cid": "QmfMYeiLWaX8pchnfhYXY4ur9HuVB5JV4RNSwYjczpCbUE"
+            }
+        ],
+        "_ts": 1702342437
+    },
+    {
+        "grNumber": "1000000001",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-11-28T01:01:00.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22772233"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "TTT"
+            }
+        ],
+        "cid": "QmUcqaPBBsB7ob4p3Lo2iwzbePZxirunbsahLsAX22hN64",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-12-12T00:56:41.000Z",
+        "lastUpdateDateTime": "2023-12-12T00:56:41.000Z",
+        "id": "1000000001",
+        "_rid": "05ltAJyTn1yOAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1yOAQAAAAAAAA==/",
+        "_etag": "\"1b00ee8b-0000-0100-0000-6577afd00000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00020",
+                "ref": [
+                    {
+                        "idQualf": "BV",
+                        "id": "00020"
+                    },
+                    {
+                        "idQualf": "OP",
+                        "id": "0000000001"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "BP",
+                        "value": "M1077134-002"
+                    },
+                    {
+                        "productQualf": "VP",
+                        "value": "MZ1LB1T9HALS-00AMV"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 200,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "QmPdri3bJdTGKKLLmdqYD7Uoent3upa2VFwRQLZ5f2YKkj"
+            }
+        ],
+        "_ts": 1702342608
+    },
+    {
+        "grNumber": "5010065067",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-12-04T00:45:03.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22772239"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "FMX"
+            }
+        ],
+        "cid": "QmUFcwWTZdHAZikyFcrgBtHKCxPm6YyAfVDnjqvpmBjx86",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-12-12T16:12:56.000Z",
+        "lastUpdateDateTime": "2023-12-12T16:12:56.000Z",
+        "id": "5010065067",
+        "_rid": "05ltAJyTn1yPAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1yPAQAAAAAAAA==/",
+        "_etag": "\"1d00b2bb-0000-0100-0000-6578868d0000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "BV",
+                        "id": "00010"
+                    },
+                    {
+                        "idQualf": "OP",
+                        "id": "4500351140"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "BP",
+                        "value": "MCX565A-CDAI_C11"
+                    },
+                    {
+                        "productQualf": "VP",
+                        "value": "MCX565A-CDAI_C11"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 22,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "Qma6G5hNfVE2M5MZBJMcyhbjwr2sjwuZAuxeiECoA5KWid"
+            }
+        ],
+        "_ts": 1702397581
+    },
+    {
+        "grNumber": "5010770203",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-12-13T11:26:48.690Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22786343"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "0000"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmNdPahX6cTUJA81YDeoeeP5qwRV54wrULs7xueaJR5Jg6",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-12-13T11:35:41.000Z",
+        "lastUpdateDateTime": "2023-12-13T11:35:41.000Z",
+        "id": "5010770203",
+        "_rid": "05ltAJyTn1yQAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1yQAQAAAAAAAA==/",
+        "_etag": "\"1e00bc93-0000-0100-0000-657997150000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "15272",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "4510015091"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "0020"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "MZ1LB1T9HALS-00AMV"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 100,
+                        "uom": "EA"
+                    }
+                ],
+                "txt": [
+                    {
+                        "txtQualf": "PB",
+                        "text": "Komarom",
+                        "lang": "en"
+                    },
+                    {
+                        "txtQualf": "OTH",
+                        "lang": "en"
+                    }
+                ],
+                "cid": "Qmbb1rwv5T2M7WUK6rH8NkR8sTStHGUbW3WP9Jyqm6Rx9m"
+            },
+            {
+                "grType": "07",
+                "line": "15271",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "4510015091"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "0010"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "MZ1LB1T9HALS-00AMV"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 100,
+                        "uom": "EA"
+                    }
+                ],
+                "txt": [
+                    {
+                        "txtQualf": "PB",
+                        "text": "Komarom",
+                        "lang": "en"
+                    },
+                    {
+                        "txtQualf": "OTH",
+                        "lang": "en"
+                    }
+                ],
+                "cid": "Qmf7P2kXiXsWMpEqvo51L7cGSK6BFgUNq38QgufHtvhxc5"
+            }
+        ],
+        "_ts": 1702467349
+    },
+    {
+        "grNumber": "5010770204",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-12-13T11:29:31.300Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22786361"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "0000"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmNcH5H8iQ57bbtenEXzdF8sxWd7S5SF4DsJGd3CWky3Y5",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-12-13T11:36:01.000Z",
+        "lastUpdateDateTime": "2023-12-13T11:36:01.000Z",
+        "id": "5010770204",
+        "_rid": "05ltAJyTn1yRAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1yRAQAAAAAAAA==/",
+        "_etag": "\"1e00c493-0000-0100-0000-657997290000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "15276",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "4510015096"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "0020"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "MZ1LB1T9HALS-00AMV"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 130,
+                        "uom": "EA"
+                    }
+                ],
+                "txt": [
+                    {
+                        "txtQualf": "PB",
+                        "text": "Komarom",
+                        "lang": "en"
+                    },
+                    {
+                        "txtQualf": "OTH",
+                        "lang": "en"
+                    }
+                ],
+                "cid": "QmZwsh24bTr97PdVtW6tfW8fd6W7aq1ioeUaWFdNZD7pd9"
+            },
+            {
+                "grType": "07",
+                "line": "15275",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "4510015096"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "0010"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "MZ1LB1T9HALS-00AMV"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 120,
+                        "uom": "EA"
+                    }
+                ],
+                "txt": [
+                    {
+                        "txtQualf": "PB",
+                        "text": "Komarom",
+                        "lang": "en"
+                    },
+                    {
+                        "txtQualf": "OTH",
+                        "lang": "en"
+                    }
+                ],
+                "cid": "QmNzGJwGwdsnRyo3AUdXYdKgs7Q9HsfwaiXVAb6Q3Ljb28"
+            }
+        ],
+        "_ts": 1702467369
+    },
+    {
+        "grNumber": "5010770205",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-12-13T11:31:46.860Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22786388"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "0000"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmSbMeWjxnN5HWeixDzUb3sSb1yjgWxKWx239dPziwqcu7",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-12-13T11:36:16.000Z",
+        "lastUpdateDateTime": "2023-12-13T11:36:16.000Z",
+        "id": "5010770205",
+        "_rid": "05ltAJyTn1ySAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1ySAQAAAAAAAA==/",
+        "_etag": "\"1e00c893-0000-0100-0000-657997350000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "15274",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "4510015092"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "0020"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "MZ1LB1T9HALS-00AMV"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 120,
+                        "uom": "EA"
+                    }
+                ],
+                "txt": [
+                    {
+                        "txtQualf": "PB",
+                        "text": "Komarom",
+                        "lang": "en"
+                    },
+                    {
+                        "txtQualf": "OTH",
+                        "lang": "en"
+                    }
+                ],
+                "cid": "QmZ8Y6Zxq4Fw2WHtxq1qXS39MoJtP3kwwLP3vjxG9p39Fx"
+            }
+        ],
+        "_ts": 1702467381
+    },
+    {
+        "grNumber": "5010770206",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-12-13T11:33:03.727Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22786389"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "0000"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            }
+        ],
+        "cid": "QmcgagZ6EZnGTDA6ox9Z6gh2psPaZyg1NRZ4b8yeLnzTFT",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-12-13T11:36:31.000Z",
+        "lastUpdateDateTime": "2023-12-13T11:36:31.000Z",
+        "id": "5010770206",
+        "_rid": "05ltAJyTn1yTAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1yTAQAAAAAAAA==/",
+        "_etag": "\"1e00ce93-0000-0100-0000-657997430000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "15273",
+                "ref": [
+                    {
+                        "idQualf": "OP",
+                        "id": "4510015092"
+                    },
+                    {
+                        "idQualf": "BV",
+                        "id": "0010"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "VP",
+                        "value": "MZ1LB1T9HALS-00AMV"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 120,
+                        "uom": "EA"
+                    }
+                ],
+                "txt": [
+                    {
+                        "txtQualf": "PB",
+                        "text": "Komarom",
+                        "lang": "en"
+                    },
+                    {
+                        "txtQualf": "OTH",
+                        "lang": "en"
+                    }
+                ],
+                "cid": "QmcDzUJn1pC2wpVDi59SvuFYCTNNHxJ2zcfgze1ZPmB7GR"
+            }
+        ],
+        "_ts": 1702467395
+    },
+    {
+        "grNumber": "5010065079",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-12-13T02:37:42.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22798556"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "FMX"
+            }
+        ],
+        "cid": "QmQuzNNAVx7FirHEtsxc3g3wPFFKi45gq5sr73SaL4vXQ6",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-12-13T19:02:11.000Z",
+        "lastUpdateDateTime": "2023-12-13T19:02:11.000Z",
+        "id": "5010065079",
+        "_rid": "05ltAJyTn1yUAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1yUAQAAAAAAAA==/",
+        "_etag": "\"1f0082b8-0000-0100-0000-6579ffb80000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00010",
+                "ref": [
+                    {
+                        "idQualf": "BV",
+                        "id": "00010"
+                    },
+                    {
+                        "idQualf": "OP",
+                        "id": "4500351133"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "BP",
+                        "value": "MCX565A-CDAI_C11"
+                    },
+                    {
+                        "productQualf": "VP",
+                        "value": "MCX565A-CDAI_C11"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 10,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "QmYWCyZKeuVFVQk3dAUnMZhziABM53UEcgLXWTiTWe6WBu"
+            }
+        ],
+        "_ts": 1702494136
+    },
+    {
+        "grNumber": "5010065078",
+        "dtm": [
+            {
+                "dateQualf": "050",
+                "date": "2023-12-13T02:31:50.000Z"
+            }
+        ],
+        "ref": [
+            {
+                "idQualf": "AS",
+                "id": "22798557"
+            },
+            {
+                "idQualf": "ZF",
+                "id": "SI"
+            },
+            {
+                "idQualf": "ZP",
+                "id": "FMX"
+            }
+        ],
+        "cid": "QmPoeJicvA5vUZEDoxnFFSvGsE5By8MZ7DBAwgV7JpuiWZ",
+        "createdBy": "a023",
+        "createdFor": "a002",
+        "updatedBy": "",
+        "privacyGroup": "a023-a002-a001",
+        "createDateTime": "2023-12-13T19:03:11.000Z",
+        "lastUpdateDateTime": "2023-12-13T19:03:11.000Z",
+        "id": "5010065078",
+        "_rid": "05ltAJyTn1yVAQAAAAAAAA==",
+        "_self": "dbs/05ltAA==/colls/05ltAJyTn1w=/docs/05ltAJyTn1yVAQAAAAAAAA==/",
+        "_etag": "\"1f008ab8-0000-0100-0000-6579fff30000\"",
+        "_attachments": "attachments/",
+        "lineItems": [
+            {
+                "grType": "07",
+                "line": "00020",
+                "ref": [
+                    {
+                        "idQualf": "BV",
+                        "id": "00020"
+                    },
+                    {
+                        "idQualf": "OP",
+                        "id": "4500351133"
+                    }
+                ],
+                "product": [
+                    {
+                        "productQualf": "BP",
+                        "value": "M1077134-002"
+                    },
+                    {
+                        "productQualf": "VP",
+                        "value": "MZ1LB1T9HALS-00AMV"
+                    }
+                ],
+                "qty": [
+                    {
+                        "type": "GR_QTY",
+                        "value": 100,
+                        "uom": "EA"
+                    }
+                ],
+                "cid": "QmRybLsqWRep5okCr7zVhAydReSeTfnifRNwck85rje8pu"
+            }
+        ],
+        "_ts": 1702494195
+    }
+]

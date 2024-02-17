@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "node-fetch": "^2.6.7",
+    "xlsx": "^0.18.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Palash Hazra",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "date-and-time": "^3.0.0",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "stream-json": "^1.7.5",
+    "underscore": "^1.13.6"
+  },
+  "name": "micron",
+  "version": "1.0.0",
+  "description": "Data Migration validation for Micron"
+}

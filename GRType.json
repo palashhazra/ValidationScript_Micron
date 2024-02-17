@@ -1,0 +1,62 @@
+[
+    {
+        "grType":"01",
+        "value":"Damaged"
+    },
+    {
+        "grType":"02",
+        "nodeId":"Quantity short"
+    },
+    {
+        "grType":"03",
+        "nodeId":"Quantity over"
+    },
+    {
+        "grType":"04",
+        "nodeId":"Quality Problem"
+    },
+    {
+        "grType":"05",
+        "nodeId":"Incorrect Product"
+    },
+    {
+        "grType":"06",
+        "nodeId":"Non-standard Container"
+    },
+    {
+        "grType":"07",
+        "nodeId":"Good Condition"
+    },
+    {
+        "grType":"08",
+        "nodeId":"Rejected"
+    },
+    {
+        "grType":"09",
+        "nodeId":"Hold"
+    },
+    {
+        "grType":"10",
+        "nodeId":"Material Scrapped"
+    },
+    {
+        "grType":"11",
+        "nodeId":"Adjust Supplier Shipped Cumulative Quantity"
+    },
+    {
+        "grType":"12",
+        "nodeId":"Quantity Over - Returned to Supplier"
+    },
+    {
+        "grType":"13",
+        "nodeId":"Quantity Received, But Cannot Process Because No Matching Ship Notice"
+    },
+    {
+        "grType":"14",
+        "nodeId":"Quantity Received and Processed with No Matching Ship Notice/Manifest"
+    },
+    {
+        "grType":"16",
+        "nodeId":"Not Received - Ship Notice Required"
+    }
+]
